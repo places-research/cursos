@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cursos on Profa. Renata Oliveira</title>
+    <link>https://places-research.github.io/cursos/courses/</link>
+    <description>Recent content in Cursos on Profa. Renata Oliveira</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
+    
+	    <atom:link href="https://places-research.github.io/cursos/courses/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Organização da disciplina</title>
+      <link>https://places-research.github.io/cursos/courses/dados_grad/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://places-research.github.io/cursos/courses/dados_grad/</guid>
+      <description>&lt;h2 id=&#34;objetivos-de-aprendizagem&#34;&gt;Objetivos de aprendizagem&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Organização da disciplina</title>
+      <link>https://places-research.github.io/cursos/courses/dados_pos/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://places-research.github.io/cursos/courses/dados_pos/</guid>
+      <description>&lt;h2 id=&#34;objetivos-de-aprendizagem&#34;&gt;Objetivos de aprendizagem&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
